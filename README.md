@@ -22,4 +22,10 @@ Conference 2018 Latin American Robotic Symposium, 2018 Brazilian Symposium on Ro
   }
 ```
 
+We have also released two trained models. Check them out:
+
+[UCAN32](https://github.com/steffensbola/u_can_32_image_exposure)
+
+[ReExposeNet](https://github.com/lrvm98/ReExposeNet)
+
 
